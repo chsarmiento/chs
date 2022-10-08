@@ -1,0 +1,13 @@
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show .nav-link {
+    color: rgba(245, 230, 13, 0.9);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(245,40,13,0.9);
+    width: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    font-variant: small-caps;
+    text-align: center;
+}
+
