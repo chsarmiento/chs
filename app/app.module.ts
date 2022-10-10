@@ -9,13 +9,15 @@ import { ProductosComponent } from './productos/productos.component';
 import { ContactoComponent } from './contacto/contacto.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     NavbarComponent,
     ProductosComponent,
-    ContactoComponent
+    ContactoComponent,
+
   ],
   imports: [
     BrowserModule,
