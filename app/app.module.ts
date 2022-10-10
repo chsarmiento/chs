@@ -10,6 +10,7 @@ import { ContactoComponent } from './contacto/contacto.component';
 
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
